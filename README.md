@@ -1,0 +1,1 @@
+# linkdens-opendental-plugin
